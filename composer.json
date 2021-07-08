@@ -35,7 +35,8 @@
     "afragen/singleton": "dev-master",
     "afragen/wp-dependency-installer": "*",
     "collizo4sky/persist-admin-notices-dismissal": "^1",
-    "freemius/wordpress-sdk": "*"
+    "freemius/wordpress-sdk": "*",
+    "composer/installers": "~1.0"
   },
   "autoload": {
     "psr-4": {
